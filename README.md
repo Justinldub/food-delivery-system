@@ -18,6 +18,6 @@ Delivery System that features wide variety of operations which Include Users, St
 
 <h1>Overview</h1>
 <dl>
-  <dd>Purpose</dd>
-  <dt>The Food Delivery Application is a modern, user-friendly platform designed to connect customers with a wide range of restaurants and food outlets. It streamlines the process of ordering food, making it convenient and efficient for users to enjoy their favorite meals from the comfort of their homes.</dt>
+  <dt style ="font-family:andalus">Purpose</dt>
+  <dd>The Food Delivery Application is a modern, user-friendly platform designed to connect customers with a wide range of restaurants and food outlets. It streamlines the process of ordering food, making it convenient and efficient for users to enjoy their favorite meals from the comfort of their homes.</dd>
 </dl>
